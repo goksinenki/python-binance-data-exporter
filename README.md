@@ -25,3 +25,5 @@ Open trades.py and replace database connection string with your database informa
 Then trades.py will read the file coins.txt and connect to Binance.
 
 It gets the coins data and insert them to Mysql database (in 5 minutes period)
+
+Do not forget schedule to execute that script every 5 minutes...
