@@ -14,7 +14,7 @@ Installation
 
 Just download binance.py to your python project directory
 
-(Thank you to JesseCorrington for binance.py // https://github.com/JesseCorrington/binance-api-python)
+(Thanks to JesseCorrington for binance.py // https://github.com/JesseCorrington/binance-api-python)
 
 You will also need to install the websockets library. Python 3.6 or newer is required.
 
