@@ -2,6 +2,10 @@
 
 That's a Crypto Trader Program that allows users to export all coins data to a MySQL database
 
+
+![alt text](https://raw.githubusercontent.com/goksinenki/python-binance-data-exporter/binance_data_sample.PNG)
+
+
 Just download binance.py to your python project directory
 
 (Thank you to JesseCorrington for binance.py // https://github.com/JesseCorrington/binance-api-python)
