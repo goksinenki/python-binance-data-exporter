@@ -1,6 +1,8 @@
 # python-binance-data-exporter
 
-That's a Crypto Trader Program that allows users to export all coins data to a MySQL database. 
+That's a Crypto Trader Program that allows users to export all coins data to a MySQL database.
+
+Also, it's an example code for Python Threading (Multi Processing).
 
 You can easily export the data from MySQL to excel so, you can easily analyse the data to guess which coin will go UP or DOWN. 
 
